@@ -1,0 +1,24 @@
+## Build outputs
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+[Aa]rtifacts/
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.docstates
+
+## .NET tooling
+project.lock.json
+project.fragment.lock.json
+*.nupkg
+
+## Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
